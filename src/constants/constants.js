@@ -32,7 +32,7 @@ export const projects = [
     description: "A company's portfolio website",
     image: "/images/4.png",
     tags: ["Gatsby"],
-    source: "https://google.com",
+    source: "http://afrosynthesia.netlify.app/",
     visit: "https://google.com",
     id: 3,
   },
