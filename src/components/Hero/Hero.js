@@ -19,9 +19,7 @@ const Hero = () => (
         I specialize in designing and developing user interfaces and digital
         products. The fine blend of design and development is where I excel.
       </SectionText>
-      <Button onClick={() => (window.location = "https://google.com")}>
-        Hire me
-      </Button>
+      <Button onClick={() => (window.location = "/resume.pdf")}>Hire me</Button>
     </LeftSection>
   </Section>
 );
